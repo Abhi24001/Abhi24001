@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi24001&show_icons=true&locale=en" alt="abhi24001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi24001&" alt="abhi24001" /></p>
+
+## Snake Eating My Contribution Graph
+![snake gif](https://github.com/abhi24001/abhi24001/blob/output/github-contribution-grid-snake.gif)
