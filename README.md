@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Abhishek Tonger</h1>
 
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3">
